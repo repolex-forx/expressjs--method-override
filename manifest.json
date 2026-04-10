@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "expressjs",
+  "repo": "method-override",
+  "versions": [
+    {
+      "commit": "5b83d4f0dc3db414df6c7e4a5da93dec170153de",
+      "parsed_at": "2026-04-10T18:31:24.648472+00:00",
+      "tag": "3.0.0",
+      "filetree": "filetree/5b83d4f0dc3db414df6c7e4a5da93dec170153de.nq.gz",
+      "blobs": [
+        "blob/e3578aadfd3a97c6ef9d74f46e07314d775c9c61.nq.gz",
+        "blob/53e49a3821327050867cf866d9e1416a1f50750a.nq.gz",
+        "blob/e256c2bcbf81b53a51c5bb9668da35fb74303a1c.nq.gz",
+        "blob/7eeefc33b66c055f211388c46d17b50c45db7c25.nq.gz",
+        "blob/c754bca3b500f3b3378a8aae744972d05badb0f1.nq.gz",
+        "blob/e6dd59b69d8260d3df76c689e397e9b6174e62c8.nq.gz",
+        "blob/58e636c911dc91bcb5a95f17d6a491cc7def6fcd.nq.gz",
+        "blob/25a2f0f525ff824ea4391b4c4acf041a780c88a3.nq.gz",
+        "blob/62562b74a3b5a79e82ca417b02e0f597d85f5e2f.nq.gz",
+        "blob/830b2ee0a97b9aafa4168c5678e099e594e52357.nq.gz",
+        "blob/0fa6951f088d91e437ea25699ee715cc6cf462a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
